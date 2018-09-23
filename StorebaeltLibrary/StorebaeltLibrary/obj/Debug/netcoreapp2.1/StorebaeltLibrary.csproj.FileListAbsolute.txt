@@ -1,0 +1,12 @@
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\bin\Debug\netcoreapp2.1\StorebaeltLibrary.deps.json
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\bin\Debug\netcoreapp2.1\StorebaeltLibrary.dll
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\bin\Debug\netcoreapp2.1\StorebaeltLibrary.pdb
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.csprojAssemblyReference.cache
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.csproj.CoreCompileInputs.cache
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.AssemblyInfoInputs.cache
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.AssemblyInfo.cs
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.csproj.CopyComplete
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.dll
+C:\Users\clang\source\storebaeltlibrary-AndersJagd\StorebaeltLibrary\StorebaeltLibrary\obj\Debug\netcoreapp2.1\StorebaeltLibrary.pdb

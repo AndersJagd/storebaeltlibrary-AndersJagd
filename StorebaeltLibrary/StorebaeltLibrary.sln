@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorebaeltLibrary", "StorebaeltLibrary\StorebaeltLibrary.csproj", "{EBE1DDA7-CA9D-4958-A7D6-CBD2E29A9662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestwkndRabat", "UnitTestwkndRabat\UnitTestwkndRabat.csproj", "{B48D11E4-2932-4D22-A105-30FDE9BCE604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE1DDA7-CA9D-4958-A7D6-CBD2E29A9662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE1DDA7-CA9D-4958-A7D6-CBD2E29A9662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE1DDA7-CA9D-4958-A7D6-CBD2E29A9662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE1DDA7-CA9D-4958-A7D6-CBD2E29A9662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48D11E4-2932-4D22-A105-30FDE9BCE604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48D11E4-2932-4D22-A105-30FDE9BCE604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48D11E4-2932-4D22-A105-30FDE9BCE604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48D11E4-2932-4D22-A105-30FDE9BCE604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D81236B4-5628-41F4-B29E-9DBFB1146D43}
+	EndGlobalSection
+EndGlobal
